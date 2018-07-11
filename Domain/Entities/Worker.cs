@@ -9,7 +9,6 @@ namespace Domain.Entities
 {
     class Worker
     {
-        [Required]
         public int Id { get; set; }
 
         [Required]
